@@ -27,8 +27,9 @@
 
 
 		   */
-
-		?>
+//function below echos "hello"
+echo "<h1>hello</h1>";
+            ?>
 
 	
 
