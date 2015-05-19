@@ -15,6 +15,21 @@
 	<?php 
 
 
+$num = 78;
+$array = [1, 3, 4, 6, 32, 7, 34, 457, 34, 77, 4785, 3];
+$string = "Once more this is an awesome length of text so that I can make sure to have a long piece of text to run string functions with";
+
+print sqrt($num);
+echo "<br>";
+print strtoupper($string);
+echo "<br>";
+print_r($array);
+echo "<br>";
+sort($array);
+print_r($array);
+echo "<br>";
+
+
 /*  Step1: Use a pre-built math function here and echo it
 
 
